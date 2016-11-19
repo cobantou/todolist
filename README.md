@@ -1,5 +1,6 @@
 # notes
 > A vue project.
+
 > A todo list demo.
 
 
@@ -9,7 +10,8 @@ open dev-server:
 ```shell
 cooking watch
 ```
-Checkout at localhost:8989
+checkout at localhost:8989
+
 open mock-server:
 ```shell
 node mock/server
