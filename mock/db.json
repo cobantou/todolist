@@ -1,0 +1,68 @@
+{
+  "todolist": [
+    {
+      "todo": "1",
+      "id": 1
+    },
+    {
+      "todo": "2",
+      "id": 2
+    },
+    {
+      "todo": "23",
+      "id": 3
+    },
+    {
+      "todo": "asbaa",
+      "id": 4
+    },
+    {
+      "todo": "asbaasdkfj13",
+      "id": 5
+    },
+    {
+      "todo": "asbaasdkfj13safdsa",
+      "id": 6
+    },
+    {
+      "todo": "asbaasdkfj13safdsa",
+      "id": 7
+    },
+    {
+      "todo": "asbaasdkfj13safdsa",
+      "id": 8
+    },
+    {
+      "todo": "asbaasdkfj13safdsa",
+      "id": 9
+    },
+    {
+      "todo": "asbaasdkfj13safdsa",
+      "id": 10
+    },
+    {
+      "todo": "asbaasdkfj13safdsa",
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": {
+    "todo": "todoa"
+  }
+}
