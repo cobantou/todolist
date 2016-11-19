@@ -1,9 +1,16 @@
-# notes
+# WHAT IS THIS?
 > A vue project.
 
 > A todo list demo.
 
-
+Just download the project,and run
+```shell
+npm install cooking-cli -g;
+```
+enter the project directory  and run
+ ```shell
+ npm install ;
+ ```
 
 # Development
 open dev-server:
